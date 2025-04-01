@@ -1,7 +1,5 @@
 import React, { useState } from 'react'
 
-// Определние интерфейсов
-
 // Струтктуры параметра
 interface Param {
 	id: number
